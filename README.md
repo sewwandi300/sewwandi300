@@ -1,10 +1,10 @@
 <!-- TOP CODING GIRL IMAGE -->
 <p align="center">
-  <!-- <img 
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-    width="420"
+  <img 
+    src="9700_4_04.jpg"
+    width="250"
     alt="Coding Girl Illustration"
-  /> -->
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Menaka Fernando</h1>
