@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Menaka Fernando</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+Intern;Frontend+Developer+Intern;Designing+User-Centered+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Frontend+Developer" />
 </p>
 
 <p align="center">
